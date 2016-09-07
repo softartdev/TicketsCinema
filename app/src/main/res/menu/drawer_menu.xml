@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/soon"
+          android:id="@+id/nav_soon"/>
+
+    <item android:title="@string/afisha"
+          android:id="@+id/nav_afisha"/>
+
+    <item android:title="@string/my_tickets"
+          android:id="@+id/nav_my_tickets"/>
+
+    <item android:title="@string/profile"
+          android:id="@+id/nav_profile"/>
+
+</menu>

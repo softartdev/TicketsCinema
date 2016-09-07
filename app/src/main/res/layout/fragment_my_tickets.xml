@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/section_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="22/07/2016 10:15 - 150P"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ОХОТНИКИ ЗА ПРИВИДЕНИЯМИ"
+        android:background="@android:color/holo_blue_dark"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="29/07/2016 12:00 - 50P"
+        android:background="@android:color/holo_green_dark"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="НЕВЕРОЯТНЫЙ БЛИНКИ БИЛЛ"
+        android:background="@android:color/holo_green_dark"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="10/07/2016 11:25 - 50P"
+        android:background="@android:color/holo_green_dark"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ПЕЛЕ: РОЖДЕНИЕ ЛЕГЕНДЫ"
+        android:background="@android:color/holo_green_dark"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="20/07/2016 15:00 - 50P"
+        android:background="@android:color/holo_green_dark"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ОТРЯД САМОУБИЙЦ"
+        android:background="@android:color/holo_green_dark"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="20/07/2016 23:00 - 50P"
+        android:background="@android:color/holo_green_dark"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ПИТ И ЕГО ДРАКОН"
+        android:background="@android:color/holo_green_dark"/>
+
+</LinearLayout>

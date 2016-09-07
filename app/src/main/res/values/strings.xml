@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tickets Cinema</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="soon">Скоро в кино</string>
+    <string name="afisha">Афиша</string>
+    <string name="my_tickets">Мои билеты</string>
+    <string name="profile">Профиль</string>
+    <string name="more">Подробнее</string>
+    <string name="buy">Купить</string>
+
+    <string-array name="cities">
+        <item>Екатеринбург</item>
+        <item>Москва</item>
+        <item>С-Петербург</item>
+        <item>др.</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>Светлая</item>
+        <item>Темная</item>
+    </string-array>
+
+</resources>
